@@ -1,0 +1,1 @@
+Medical Documentation System stakeholder preview build. Updated from the original prototype to align with the approved MDS emblem, DDS/FMDS platform direction, generator rules, outpatient-only specialty partnership page, and phrase-based pricing direction.
